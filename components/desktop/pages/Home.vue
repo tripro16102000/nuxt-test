@@ -11,8 +11,6 @@
         default: () => []
       }
     },
-    mounted() {
-      console.log(this.posts)
-    }
+
   }
 </script>
